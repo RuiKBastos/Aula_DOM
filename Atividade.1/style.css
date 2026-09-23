@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #3f0000;
+    text-align: center;
+    padding: 50px;
+}
+
+main {
+    background-color: rgb(158, 158, 158);
+    padding: 40px;
+    max-width: 600px;
+    margin: auto;
+    border-radius: 10px;
+}
+
+h1 {
+    color: #333;
+}
+
+p {
+    font-size: 18px;
+}
+
+button {
+    padding: 12px 20px;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+}
